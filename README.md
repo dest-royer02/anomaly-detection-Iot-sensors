@@ -1,5 +1,5 @@
 # Anomaly Detection in IoT sensors using Machine Learning and Deep Learning
-Under the guidance of Professor **Dr. Kishor Sarawadekar**, ECE IIT(BHU)
+Exploratory Project under the guidance of Professor **Dr. Kishor Sarawadekar**, ECE IIT(BHU)
 
 
 ## Team Members:
@@ -15,6 +15,11 @@ We present our **Machine Learning** model to detect and predict attack/anomaly i
 
 ## Flow Chart:
 ![flow_chart](Extras/Picture1.jpg)
+
+## References
+https://ieeexplore.ieee.org/document/9004362  
+https://journalofbigdata.springeropen.com/articles/10.1186/s40537-019-0268-2  
+
 
 
 
